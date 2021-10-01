@@ -15,4 +15,14 @@ In addition, the following graph shows the disparity of fares per city type:
 
 ![PyBer Fare Summary](https://github.com/hmohabir/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-Note the higher fares generated in Urban environments vs rural ones. Also, the graph shows the fare rise/fall on a weekly basisfor the period.
+Note the higher fares generated in Urban environments vs rural ones. Also, the graph shows the fare rise/fall on a weekly basis for the period.
+
+## Summary
+
+Based on the results, a couple of reccommendations can be made:
+
+1) The fare per ride is higher in rural cities. This might be due to the longer rides. Decrease the fare in rural cities, and increase it in urban cities to rebalance the fares.
+
+2) Increase the number of drivers in rural cities. With more drivers, the rides would also increase.
+
+3) Offer cheaper rides during the weeks where there are dips in the graph. This would encourage riders to take advantage of the lower fares and utalize the ride sharing even more.
